@@ -1,6 +1,6 @@
 <?php
 session_start();
-error_reporting(0);
+// error_reporting(0);
 // This function calculate the final price 
 function get_price($item,$unitprice,$quantity){
     $total_price = 0;

@@ -1,7 +1,7 @@
 <?php
+error_reporting(0);
 require('products.php');
 require_once('getprice.php');
-error_reporting(0);
 $final_price = 0;
 ?>
 </br>
